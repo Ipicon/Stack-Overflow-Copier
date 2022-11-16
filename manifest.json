@@ -1,6 +1,7 @@
 {
   "name": "Stack Overflow Copier",
   "description": "An extension to make developer's life a little bit faster!",
+  "author": "Max Shulov",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
